@@ -1,0 +1,9 @@
+build/**
+*.o
+*.bin
+*.so
+fw/build/**
+*swp
+*-cache.lib*
+*.bak
+*.bck
