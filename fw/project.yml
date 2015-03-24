@@ -28,6 +28,7 @@
     - -:test/support
   :source:
     - src/**
+    - vendor/STM32F4xx_DSP_StdPeriph_Lib_V1.4.0/Libraries/CMSIS/**
   :support:
     - test/support
 
