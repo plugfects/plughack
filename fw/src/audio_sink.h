@@ -3,7 +3,6 @@
 
 #include <stdint.h>
 
-
 typedef struct{
 	uint8_t samplingRate;
 	uint8_t codec_address;
